@@ -1,4 +1,4 @@
-<skins>
+<skin>
     <!--DPS_MainMenu -->
     <screen name="DPS_MainMenu" position="0,0" size="1920,1080" flags="wfNoBorder" backgroundColor="#ffffffff" title=" ">
         <!-- title -->
@@ -911,6 +911,6 @@
         <widget source="session.CurrentService" render="Label" position="48,48" size="48,16" font="youvix-r;16" foregroundColor="#FFFF00" halign="right">
         <convert type="ServicePosition">Remaining,Negate,ShowHours,ShowNoSeconds</convert>
         </widget>
-</screen>
+	</screen>
 
-</skins>
+</skin>

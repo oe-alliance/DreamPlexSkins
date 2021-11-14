@@ -1,4 +1,4 @@
-<skins>
+<skin>
 	<!--DPS_MainMenu -->
 	<screen name="DPS_MainMenu" position="0,0" size="1920,1080" flags="wfNoBorder" backgroundColor="#000000" title=" ">
 		<!-- title -->
@@ -406,4 +406,4 @@
 			<convert type="ServicePosition">Remaining,Negate,ShowHours,ShowNoSeconds</convert>
 		</widget>
 	</screen>
-</skins>
+</skin>
