@@ -18,20 +18,20 @@
     <screen name="DPS_VideoPlayer" miniTv="False" usePoster="True" height="268" width="195" />
 
 	<!-- FONTS SECTION -->
-	<font path="/usr/lib/enigma2/python/Plugins/Extensions/DreamPlex/skins/default_FHD_Blue_Mod/OpenSans.ttf" size="100" name="OpenSans" />
+	<font path="/usr/lib/enigma2/python/Plugins/Extensions/DreamPlex/fonts/OpenSans.ttf" size="100" name="OpenSans" />
 
 	<!-- GUI ELEMENTS -->
-	<guiElement name="seenPic" path="/usr/lib/enigma2/python/Plugins/Extensions/DreamPlex/skins/default_FHD_Blue_Mod/icons/seen-fs8.png" />
-	<guiElement name="startedPic" path="/usr/lib/enigma2/python/Plugins/Extensions/DreamPlex/skins/default_FHD_Blue_Mod/icons/started-fs8.png" />
-	<guiElement name="unseenPic" path="/usr/lib/enigma2/python/Plugins/Extensions/DreamPlex/skins/default_FHD_Blue_Mod/icons/unseen-fs8.png" />
+	<guiElement name="seenPic" path="/usr/lib/enigma2/python/Plugins/Extensions/DreamPlex/skins/default_FHD/icons/seen-fs8.png" />
+	<guiElement name="startedPic" path="/usr/lib/enigma2/python/Plugins/Extensions/DreamPlex/skins/default_FHD/icons/started-fs8.png" />
+	<guiElement name="unseenPic" path="/usr/lib/enigma2/python/Plugins/Extensions/DreamPlex/skins/default_FHD/icons/unseen-fs8.png" />
 
-	<guiElement name="key_red" path="/usr/lib/enigma2/python/Plugins/Extensions/DreamPlex/skins/default_FHD_Blue_Mod/buttons/btn_red-fs8.png" />
-	<guiElement name="key_green" path="/usr/lib/enigma2/python/Plugins/Extensions/DreamPlex/skins/default_FHD_Blue_Mod/buttons/btn_green-fs8.png" />
-	<guiElement name="key_blue" path="/usr/lib/enigma2/python/Plugins/Extensions/DreamPlex/skins/default_FHD_Blue_Mod/buttons/btn_blue-fs8.png" />
-	<guiElement name="key_yellow" path="/usr/lib/enigma2/python/Plugins/Extensions/DreamPlex/skins/default_FHD_Blue_Mod/buttons/btn_yellow-fs8.png"/>
+	<guiElement name="key_red" path="/usr/lib/enigma2/python/Plugins/Extensions/DreamPlex/skins/default_FHD/buttons/btn_red-fs8.png" />
+	<guiElement name="key_green" path="/usr/lib/enigma2/python/Plugins/Extensions/DreamPlex/skins/default_FHD/buttons/btn_green-fs8.png" />
+	<guiElement name="key_blue" path="/usr/lib/enigma2/python/Plugins/Extensions/DreamPlex/skins/default_FHD/buttons/btn_blue-fs8.png" />
+	<guiElement name="key_yellow" path="/usr/lib/enigma2/python/Plugins/Extensions/DreamPlex/skins/default_FHD/buttons/btn_yellow-fs8.png"/>
 
-	<guiElement name="musicCase" path="/usr/lib/enigma2/python/Plugins/Extensions/DreamPlex/skins/default_FHD_Blue_Mod/images/cover-music-fs8.png" />
-	<guiElement name="videoCase" path="/usr/lib/enigma2/python/Plugins/Extensions/DreamPlex/skins/default_FHD_Blue_Mod/images/cover-movie-fs8.png" />
+	<guiElement name="musicCase" path="/usr/lib/enigma2/python/Plugins/Extensions/DreamPlex/skins/default_FHD/images/cover-music-fs8.png" />
+	<guiElement name="videoCase" path="/usr/lib/enigma2/python/Plugins/Extensions/DreamPlex/skins/default_FHD/images/cover-movie-fs8.png" />
 	
 	<!-- VIEWS -->
 
