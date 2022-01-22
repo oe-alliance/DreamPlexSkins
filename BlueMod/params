@@ -5,7 +5,7 @@
 
 	<!-- MAIN MENU ORIENTATION -->
 	<menuScreen name="main_menu" type="horizontal" highlighted="#e69405" normal="#ffffff" />
-	<menuScreen name="server_menu" type="horizontal" highlighted="#e69405" normal="#ffffff"/>
+	<menuScreen name="server_menu" type="vertical" highlighted="#e69405" normal="#ffffff"/>
 
 	<!-- SCREEN OPTIONS -->
 	<!-- if miniTv = False you can delete height and width -->
